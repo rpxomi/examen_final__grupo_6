@@ -2,3 +2,4 @@
 Repositorio para el examen final de introducción a la informática
 
 Juan Micozzi
+Roxana Ocaña
